@@ -382,7 +382,10 @@
 					    url: '//kyivpost.us11.list-manage.com/subscribe/post-json?u=31b5015ab05f7de00d844bf33&amp;id=c12a351729&c=?',
 					    type: 'POST',
 					    data: d,
-					    dataType: 'jsonp'
+					    dataType: 'jsonp',
+					    success: function(){
+					    	$("#myModal").modal();
+					    }
 					});
               	})
 
@@ -466,7 +469,27 @@
 		</div>
 	</section>
 
-	
+	<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Almost done!</h4>
+      </div>
+      <div class="modal-body">
+        <p>Thank you for subscribing!</p>
+        <p>Please check your email to verify your subscription.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 
 
