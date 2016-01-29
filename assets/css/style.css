@@ -1980,7 +1980,7 @@ body {
   font-family: "Roboto", "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 .heading-font {
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .uppercase {
   text-transform: uppercase;
@@ -2023,7 +2023,7 @@ h4,
 h5,
 h6,
 .h7 {
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
 }
 h1,
@@ -2114,7 +2114,7 @@ a:focus {
 }
 .link-btn {
   display: inline-block;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.22em;
@@ -2798,7 +2798,7 @@ li {
   display: block;
   width: 65px;
   height: 32px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
@@ -2960,7 +2960,7 @@ lesshat-selector {
   min-width: 144px;
   max-width: 100%;
   padding: 21px 25px 19px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px;
   font-weight: 700;
   text-align: center;
@@ -3334,7 +3334,7 @@ button.btn.btn-block {
 .schedule .tab-content .nav.nav-schedule > li > a {
   margin: 0;
   padding: 16px 45px 14px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -3473,7 +3473,7 @@ button.btn.btn-block {
   margin-bottom: 30px;
 }
 .schedule.schedule-light .nav-current {
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #262627;
@@ -3498,7 +3498,7 @@ button.btn.btn-block {
 }
 .schedule.schedule-light .nav.nav-schedule > li > a {
   padding: 24px 15px 19px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #ffffff;
@@ -4204,7 +4204,7 @@ button.btn.btn-block {
   transition: color 0.2s ease, background 0.2s ease;
   display: block;
   padding: 12px 20px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 0.22em;
@@ -4320,10 +4320,10 @@ input[type=password] {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
-  margin: 0 0 15px;
+  margin: 15px auto;
   vertical-align: top;
   display: inline-block;
-  width: 100%;
+  width: 60%;
   font-size: 13px;
   color: #8d93a0;
   background-color: #ffffff;
@@ -4659,7 +4659,7 @@ button[type="submit"] .loading {
 }
 .table > thead > tr > th,
 .table > thead > tr > td {
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 600;
   color: #ffffff;
   border: none !important;
@@ -4845,7 +4845,7 @@ button[type="submit"] .loading {
   display: inline-block;
   width: 150px;
   padding-top: 25px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   font-size: 16px;
   text-align: center;
@@ -4854,7 +4854,7 @@ button[type="submit"] .loading {
 }
 .package-column .package-price {
   font-size: 70px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   line-height: 1;
   color: #262627;
@@ -4965,7 +4965,7 @@ button[type="submit"] .loading {
 .package-panel .buy-btn .price {
   font-size: 70px;
   margin-bottom: 24px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 700;
   line-height: 1;
 }
@@ -5169,7 +5169,7 @@ button[type="submit"] .loading {
   padding: 0;
 }
 .counter-block.counter-block-no-border .counter-box .counter-content .title {
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
@@ -5196,7 +5196,7 @@ button[type="submit"] .loading {
 .counter-box .counter-content > .count {
   display: inline-block;
   width: 100%;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 80px;
   font-weight: 700;
   line-height: 100px;
@@ -5810,7 +5810,7 @@ button[type="submit"] .loading {
   text-align: left;
 }
 .balloon .name {
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 15px;
   font-weight: 700;
   line-height: 20px;
@@ -6138,7 +6138,7 @@ button[type="submit"] .loading {
 .navigation-header .logo {
   display: inline-block;
   padding: 3px 0;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 23px;
   font-weight: 700;
   text-transform: uppercase;
@@ -6240,7 +6240,7 @@ button[type="submit"] .loading {
   transition: color 0.15s ease, background 0.15s ease, border 0.15s ease, opacity 0.15s ease;
   display: inline-block;
   padding: 7px 0;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
@@ -6478,7 +6478,7 @@ button[type="submit"] .loading {
   margin-right: 0;
 }
 .footer-nav > li a {
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Roboto", Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 11px;
   font-weight: 700;
   text-decoration: none;
@@ -7082,3 +7082,6 @@ button[type="submit"] .loading {
   color: #00695B !important;
 }
 
+.btn-red {
+  background-color: red;
+}
