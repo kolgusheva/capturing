@@ -7085,3 +7085,7 @@ button[type="submit"] .loading {
 .btn-red {
   background-color: red;
 }
+
+.header .buy-btn:focus {
+  color: #017A6B;
+}
