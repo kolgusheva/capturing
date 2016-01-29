@@ -7036,6 +7036,10 @@ button[type="submit"] .loading {
     padding-top: 0 !important;
     padding-bottom: 0 !important;
   }
+  .xs-hidden {
+  display: none;
+}
+
 }
 @media (max-width: 480px) {
   .extra-heading {
@@ -7064,6 +7068,10 @@ button[type="submit"] .loading {
     margin-bottom: 0;
     width: 100%;
   }
+  .xs-hidden {
+  display: none;
+}
+
 }
 
 
@@ -7073,3 +7081,4 @@ button[type="submit"] .loading {
 .numbers-title {
   color: #00695B !important;
 }
+
