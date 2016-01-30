@@ -2,5 +2,7 @@
 	"mapZoom": 15,
 	"markerAddress": "30 Tarasa Shevchenko Blvd, Kyiv, Ukraine",
 	"offsetX": 100,
-	"offsetY": 10
+	"offsetY": 10,
+	"scrollWheel": false,
+	"draggable": false
 }
