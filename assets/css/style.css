@@ -7086,3 +7086,17 @@ button[type="submit"] .loading {
 .header .buy-btn:focus {
   color: #017A6B;
 }
+
+.grayscale {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.small-logo {
+  max-width: 120px;
+}
+
+.lead {
+  max-width: 250px;
+}
+
